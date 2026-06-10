@@ -25,11 +25,11 @@ at-risk customers, enabling proactive retention strategies.
 ## 📈 Key Findings
  **Model Performance**
  
-Model             	Accuracy 	AUC
+Model                  	Accuracy 	AUC
 
-Logistic Regression	  0.82  	0.862
+Logistic Regression	    0.82  	0.862
 
-Random Forest      	  0.81	  0.863
+Random Forest      	    0.81	  0.863
 
 **Key Churn Drivers**
 
