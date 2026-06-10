@@ -23,7 +23,22 @@ at-risk customers, enabling proactive retention strategies.
 5. Evaluation → Accuracy, Precision, Recall, F1
 
 ## 📈 Key Findings
+ **Model Performance**
  
+Model             	Accuracy 	AUC
+
+Logistic Regression	  0.82  	0.862
+
+Random Forest      	  0.81	  0.863
+
+**Key Churn Drivers**
+
+Tenure — importance score: 0.1554
+
+Total Charges — importance score: 0.1522
+
+Monthly Charges — importance score: 0.1277
+
 ## ▶️ How to Run
 ```bash
 pip install -r requirements.txt
