@@ -22,7 +22,11 @@ support data-driven business decisions.
 4. Insights → actionable findings documented
 
 ## 📈 Key Findings
- 
+ Peak revenue month - 2017-11 ($118,448) 
+Top product by profit - Canon imageCLASS 2200 Advanced Copier 
+Best performing region - West 
+Technology profit share - $145,455  (50.8% of total profit) 
+Discount-profit correlation - -0.219 
 
 ## ▶️ How to Run
 ```bash
