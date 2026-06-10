@@ -28,7 +28,9 @@ and quality — achieving an R² score above 0.85.
 Model                        RMSE       R2
 --------------------------------------------
 Linear Regression      $   28,173  0.8965
+
 Random Forest          $   29,678  0.8852
+
 XGBoost                $   25,092  0.9179
 
 ## Top Price Predictors 
