@@ -24,6 +24,13 @@ platform growth patterns across countries and years.
 
 ## 📈 Key Findings
 
+| # | Finding                      |  Value |
+|---|---------                     |------------|
+| 1 | Movies vs TV Shows split     | 69.6 % is Movies,30.4 % is TV Shows |
+| 2 | Number 1 genre               | International Movies : 2752 titles |
+| 3 | Content growth 2015 to 2019  | 2359.0 % |
+| 4 | Top producing country        | United States ( 3689 titles) |
+| 5 | Most common rating           | TV-MA ( 3211 titles) |
 
 ## ▶️ How to Run
 ```bash
